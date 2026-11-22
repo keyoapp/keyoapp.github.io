@@ -125,6 +125,6 @@ If we change this policy, we'll update the date at the top of this page. For sig
 
 ## Contact
 
-Questions about Keyo or this policy? Email **keyapp@proton.me**.
+Questions about Keyo or this policy? Email **keyoapp@proton.me**.
 
 © 2026 Keyo
